@@ -1,6 +1,6 @@
 # School of the Dead
 
-Official legal pages for **School of the Dead**:
+Legal links:
 
-* [Privacy Policy](PrivacyPolicy.md)
-* [Terms of Service](Terms%20of%20Service.md)
+- [Privacy Policy](PrivacyPolicy.html)
+- [Terms of Service](Terms%20of%20Service.html)
